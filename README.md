@@ -1,4 +1,4 @@
-### Hallihallo Dearest Darling, I'm Patrick ... 👋
+### Hello Dearest Darling, I'm Patrick ... 👋
 
 <!--
 **patrickgullmann/patrickgullmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
