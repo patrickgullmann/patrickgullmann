@@ -2,9 +2,6 @@
 
 ### I am a Full Stack Developer with a background in strategy, IT and management consultancy.
 
-Currently, I have a challenging work environment that fosters learning and constant feedback to further improve my (coding) skills. 
-Come and have a look at my Repositories ... 🔭
-
 Cheers :) 
 
 <!--
